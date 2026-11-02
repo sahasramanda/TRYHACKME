@@ -1,1 +1,3 @@
-BLEH
+unified extensible firmware interface (UEFI).
+note: we will often see the term BIOS mentioned instead of UEFI.
+BIOS does the same as UEFI but has mainly been replaced by UEFI.
